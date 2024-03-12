@@ -1,0 +1,18 @@
+.pink {
+    background-color: #f78f8f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: #00ff00;
+}
